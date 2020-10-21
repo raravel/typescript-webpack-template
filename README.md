@@ -1,4 +1,4 @@
-# typescript-template
+# typescript-webpack-template
 
 ```sh
 npx degit tree-some/typescript-webpack-template ts-project
